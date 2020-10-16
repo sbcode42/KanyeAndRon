@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "y4qt8Wyz43LtBaLb+HHKi4jdqusPtK24qlrD94au66f40HlxZNxYc3wTD7P08J28bvXvgneZMz1cVQDNTBq73w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Testpiggy\\repos\\KanyeAndRon\\KanyeAndRon.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Testpiggy\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
